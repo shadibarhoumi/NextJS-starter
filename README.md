@@ -18,12 +18,16 @@ First, install dependencies.
 
 ```bash
 yarn install
+#or
+npm install
 ```
 
 Then start the dev server.
 
 ```bash
 yarn dev
+#or
+npm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
