@@ -1,8 +1,6 @@
 # Shadi's Sick NextJS Starter®
 
-## What's in the box
-
-A NextJS setup with:
+This is a a blank NextJS starter project that includes:
 
 - `styled-components` 💅
 - `styles/GlobalStyles.js` which includes a CSS reset and CSS variables for colors.
