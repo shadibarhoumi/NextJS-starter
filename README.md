@@ -1,4 +1,4 @@
-# Shadi's Sick NextJS Starter®
+# Shadi's Stylish NextJS Starter
 
 This is a a blank NextJS starter project that includes:
 
@@ -36,4 +36,3 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 You also have a new page to go to town on at `pages/new.js`.
 
-_Dedicated to Wuyan <3_
